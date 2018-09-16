@@ -38,3 +38,8 @@ print(decryptedMessage)
 // Decrypts the string "mfpyy yjzsy" with seed 2
 // Prints "hello world"
 ```
+
+## Licence
+This library is shared under **Apache License 2.0**.
+
+### Created by Domenico Rotolo
